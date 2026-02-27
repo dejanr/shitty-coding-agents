@@ -7,3 +7,5 @@
 - Kaizen for Personal Environments drives continuous improvement
 
 **Don’t just use coding agents. Build a system that improves with you.**
+
+GitHub: https://github.com/dejanr/shitty-coding-agents
