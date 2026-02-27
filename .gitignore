@@ -1,0 +1,7 @@
+.devenv/
+.direnv/
+.demo-it*
+result
+result-*
+*.sock
+*.log
