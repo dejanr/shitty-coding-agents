@@ -18,8 +18,4 @@ demo-it start .
 
 - `slides/` – markdown slides
 - `demo-it.md` – demo-it presentation script
-- `.agents/` – agent-specific assets/skills for demos
-
-## Links
-
-- GitHub: https://github.com/dejanr/shitty-coding-agents
+- `demo` – tv show tracker demo with a basic cli skill
